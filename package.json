@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "discord-akairo": "github:SkyBlockDev/discord-akairo",
     "discord.js": "^13.1.0",
     "dotenv": "^16.0.0",
