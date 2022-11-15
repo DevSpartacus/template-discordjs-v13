@@ -18,3 +18,10 @@ Une fenêtre s'ouvre en bas de votre écran, tapez la commande suivante:
 Si vous avez suivi la première étape correctement, le bot vous répond normalement `User#XXXX connecté avec succès.`
 
 Dans le cas où ça ne répond pas ça ou que le bot ne s'allume pas, veillez à mettre à jour NodeJS et NPM.
+
+## REMERCIEMENT
+
+Je vous demanderai de bien vouloir partager et/ou mettre une étoile à cette création. En vous remerciant!
+
+Mon discord: Spartacus#0002
+Mon hébergeur Onyks: discord.gg/onykshosting
